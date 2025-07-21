@@ -44,8 +44,11 @@ PEP в Python означает Python Enhancement Proposal (Предложени
 Александров Дмитрий
 
 <u>GitHub</u>
- - https://github.com/DmitryAlexandrov91
+- https://github.com/DmitryAlexandrov91
 
- <u>Telegram</u>
+<u>Telegram</u>
+- https://t.me/@AlDmAl
+
+<u>Habr Career</u>
+- https://career.habr.com/aldmal
  - https://t.me/@AlDmAl
-
